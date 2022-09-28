@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorok-dva&label=Profile%20views&color=0e75b6&style=flat" alt="pwnwithlove" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sorok-dva&label=Profile%20views&color=0e75b6&style=flat" alt="Sorok-Dva" />
+  <a href="https://wakatime.com/@8ba51fea-4e78-4973-8f08-8680f1d0f8af"><img src="https://wakatime.com/badge/user/8ba51fea-4e78-4973-8f08-8680f1d0f8af.svg" alt="Total time coded since Jan 1 2020" /></a>
+</p>
 
 ## Coding Stats
 <p align="center">
@@ -13,7 +16,7 @@
 
 ## Get in touch
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pwnwithlove#1984" height="30" width="40" />: Сорок два#0042
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Сорок два#0042" height="30" width="40" />: Сорок два#0042
 </p>
 
 <!--
