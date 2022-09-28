@@ -11,6 +11,11 @@
   </a>
 </p>
 
+## Get in touch
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pwnwithlove#1984" height="30" width="40" />: Сорок два#0042
+</p>
+
 <!--
 **Sorok-Dva/Sorok-Dva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
