@@ -4,6 +4,10 @@
   <a href="https://wakatime.com/@8ba51fea-4e78-4973-8f08-8680f1d0f8af"><img src="https://wakatime.com/badge/user/8ba51fea-4e78-4973-8f08-8680f1d0f8af.svg" alt="Total time coded since Jan 1 2020" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sorok-dva&show_icons=true&hide_border=true&theme=prussian" alt="My GitHub stats"/>
+</p>
+
 ## Coding Stats
 <p align="center">
   <a href="https://wakatime.com/share/@Sorok_Dva/ab84dbe6-eee1-4e2a-b205-b4ad86d22e1d.png">
