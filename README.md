@@ -10,9 +10,10 @@
 
 ## Coding Stats
 <p align="center">
+  <!--
   <a href="https://wakatime.com/share/@Sorok_Dva/ab84dbe6-eee1-4e2a-b205-b4ad86d22e1d.png">
     <img width="350" src="https://wakatime.com/share/@Sorok_Dva/ab84dbe6-eee1-4e2a-b205-b4ad86d22e1d.png" />
-  </a> 
+  </a> -->
   <a href="https://wakatime.com/share/@Sorok_Dva/9d667f9c-8670-4932-9ee9-a05bd39cc9a4.png" target="_blank">
     <img width="350" src="https://wakatime.com/share/@Sorok_Dva/9d667f9c-8670-4932-9ee9-a05bd39cc9a4.png" />
   </a>
