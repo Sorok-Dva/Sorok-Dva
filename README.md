@@ -20,7 +20,7 @@
 
 ## Get in touch
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Сорок два#0042" height="30" width="40" />: Сорок два#0042
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Сорок два#0042" height="30" width="40" />: sorokdva
 </p>
 
 <!--
