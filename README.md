@@ -37,18 +37,15 @@
 ### ☁️ Tools
 ![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,aws,bash,vim,webstorm&perline=)
 
----
 ## 💻 Operational System
 ![langs](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=)
 
----
 ## 📫 Get in touch
 <div align="left" style="display:inline_block"> 
  <a href="https://discord.gg/WV46DGuPmA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:sorokdva.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
----
 ## 💝 Support me
   <p>
     <a href="https://github.com/sponsors/Sorok-Dva">
