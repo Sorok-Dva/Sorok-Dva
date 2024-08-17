@@ -56,6 +56,11 @@
   </a>
   </p>
 
+## 🏆 My achievements on GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Sorok-Dva&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
+
+<a href="#"><img align='right' src='https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif' width='55'></a>
+
 <!--
 **Sorok-Dva/Sorok-Dva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
