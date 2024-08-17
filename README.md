@@ -10,11 +10,15 @@
   </p>
 </div>
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sorok-dva&show_icons=true&hide_border=true&theme=prussian" alt="My GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/Sorok-Dva/github-stats-transparent/output/generated/overview.svg" alt="My GitHub stats"/>
 </p>
 
-## Coding Stats
+---
+
+## 📊 Coding Stats
 <p align="center">
   <a href="https://wakatime.com/share/@Sorok_Dva/ab84dbe6-eee1-4e2a-b205-b4ad86d22e1d.png">
     <img width="350" src="https://wakatime.com/share/@Sorok_Dva/ab84dbe6-eee1-4e2a-b205-b4ad86d22e1d.png" />
@@ -24,13 +28,28 @@
   </a>
 </p>
 
-## Get in touch
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Сорок два#0042" height="30" width="40" />: sorokdva
-</p>
+### *️⃣ Languages
+![langs](https://skillicons.dev/icons?i=typescript,javascript,php,cpp,java,lua,html,css&perline=)
 
-## Support me
+## 🛢 Databases
+![langs](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=)
 
+### ☁️ Tools
+![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,aws,bash,vim,webstorm&perline=)
+
+---
+## 💻 Operational System
+![langs](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=)
+
+---
+## 📫 Get in touch
+<div align="left" style="display:inline_block"> 
+ <a href="https://discord.gg/WV46DGuPmA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:sorokdva.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
+## 💝 Support me
   <p>
     <a href="https://github.com/sponsors/Sorok-Dva">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor Me">
