@@ -31,7 +31,7 @@
 ### *️⃣ Languages
 ![langs](https://skillicons.dev/icons?i=typescript,javascript,php,cpp,java,lua,html,css&perline=)
 
-## 🛢 Databases
+### 🛢 Databases
 ![langs](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=)
 
 ### ☁️ Tools
