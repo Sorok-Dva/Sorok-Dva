@@ -29,13 +29,13 @@
 </p>
 
 ### *️⃣ Languages
-![langs](https://skillicons.dev/icons?i=typescript,javascript,php,cpp,java,lua,html,css&perline=)
+![langs](https://skillicons.dev/icons?i=typescript,javascript,php,cpp,java,python,lua,html,css&perline=)
 
 ### 🛢 Databases
 ![langs](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&perline=)
 
 ### ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,nginx,aws,bash,vim,webstorm&perline=)
+![langs](https://skillicons.dev/icons?i=git,github,docker,webstorm,phpstorm,nginx,aws,bash,vim&perline=)
 
 ## 💻 Operational System
 ![langs](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=)
