@@ -59,6 +59,12 @@
 ## 🏆 My achievements on GitHub
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sorok-Dva&theme=darkhub&rank=-C&column=-1&no-bg=true&no-frame=true)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sorok-Dva&theme=tokyonight-duo&hide_border=true&border_radius=0">
+  <br>
+  <br>
+ </p>
+
 <a href="#"><img align='right' src='https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif' width='55'></a>
 
 <!--
