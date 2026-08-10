@@ -27,7 +27,7 @@
 ### ☁️ Tools
 ![langs](https://skillicons.dev/icons?i=git,github,docker,webstorm,phpstorm,nginx,aws,bash,vim&perline=)
 
-## 💻 Operational System
+## 💻 Operating Systems
 ![langs](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu&perline=)
 
 ## 📫 Get in touch
