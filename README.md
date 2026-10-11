@@ -87,3 +87,10 @@ If my tools saved you some time, you can buy me a coffee through GitHub Sponsors
 <p>
   <a href="https://github.com/sponsors/Sorok-Dva"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="Sponsor me on GitHub" /></a>
 </p>
+
+### 🙏 Thanks to my sponsors
+
+<!-- One sponsor per line, e.g. - [@username](https://github.com/username) 🐬 -->
+*Nobody here yet. Be the first hitchhiker!*
+
+<sub>🐬 = paid the Answer to the Ultimate Question of Life, the Universe and Everything ($42)</sub>
